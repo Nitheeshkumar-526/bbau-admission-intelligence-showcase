@@ -169,3 +169,15 @@ Integrated AI assistant for guidance and intelligent interaction.
 
 Supports interactive conversations using Google Gemini and Anthropic Claude.
 ```
+```
+# 🚀 Running the Project
+
+> **Note:** This repository is a showcase version intended for portfolio demonstration.
+
+The complete implementation is maintained in a private repository.
+
+If access to the source code is required for academic evaluation or technical interviews, it can be shared upon request.
+
+---
+
+```
