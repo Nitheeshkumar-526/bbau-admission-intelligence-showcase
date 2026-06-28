@@ -181,3 +181,18 @@ If access to the source code is required for academic evaluation or technical in
 ---
 
 ```
+```
+# 👨‍💻 Author
+
+**G. Nitheesh Kumar**
+
+M.Tech (Information Technology)
+
+Babasaheb Bhimrao Ambedkar University (BBAU), Lucknow
+
+GitHub: https://github.com/Nitheeshkumar-526
+
+---
+
+⭐ If you found this project interesting, consider giving this repository a star.
+```
