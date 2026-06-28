@@ -72,3 +72,100 @@ The system assists universities in forecasting admissions, analyzing course sust
 
 ---
 
+
+# 📸 Application Walkthrough
+
+## 🔐 1. Secure Authentication
+
+![Authentication](screenshots/01_authentication_page.jpg)
+
+Users authenticate through a secure login interface before accessing the dashboard.
+
+---
+
+## 🏠 2. Home Page
+
+![Home](screenshots/02_home_page.jpg)
+
+The landing page provides an overview of the platform and quick navigation to major modules.
+
+---
+
+## 📊 3. Dashboard Overview
+
+![Dashboard Overview](screenshots/03_dashboard_overview.jpg)
+
+Displays institutional KPIs, admission insights, and overall analytics.
+
+---
+
+## 📂 4. Data Management
+
+![Data Management](screenshots/04_dashboard_data_management.jpg)
+
+Allows users to manage admission datasets used for forecasting and analytics.
+
+---
+
+## 📈 5. Analytics Dashboard
+
+![Analytics Dashboard](screenshots/05_dashboard_analytics.jpg)
+
+Interactive charts and visualizations help analyze admission trends.
+
+---
+
+## 🔮 6. Forecast Input
+
+![Forecast Input](screenshots/06_forecast_input.jpg)
+
+Users configure forecasting parameters for predictive analysis.
+
+---
+
+## 📉 7. Forecast Results
+
+![Forecast Results](screenshots/07_forecast_results.jpg)
+
+Machine Learning models generate admission forecasts with visual insights.
+
+---
+
+## 📑 8. Reports Dashboard
+
+![Reports Dashboard](screenshots/08_reports_dashboard.jpg)
+
+Centralized report generation and analytical summaries.
+
+---
+
+## 📄 9. Report Export
+
+![Report Export](screenshots/09_report_export.jpg)
+
+Export analytical reports for institutional decision-making.
+
+---
+
+## 🌍 10. Geographical Analysis
+
+![Geographical Analysis](screenshots/10_geographical_analysis.jpg)
+
+Visual representation of regional admission patterns.
+
+---
+
+## 🤖 11. AI Assistant
+
+![AI Assistant](screenshots/11_ai_assistant.jpg)
+
+Integrated AI assistant for guidance and intelligent interaction.
+
+---
+
+## 💬 12. AI Assistant Conversation
+
+![AI Assistant Chat](screenshots/12_ai_assistant_chat.jpg)
+
+Supports interactive conversations using Google Gemini and Anthropic Claude.
+```
