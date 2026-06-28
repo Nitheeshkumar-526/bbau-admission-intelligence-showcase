@@ -20,3 +20,36 @@ The system assists universities in forecasting admissions, analyzing course sust
 > **Note:** This repository is a **project showcase** created for portfolio purposes. The complete source code and research implementation are maintained in a private repository.
 
 ---
+
+---
+
+# ✨ Key Features
+
+- 🔐 **Secure Authentication**
+  - User login and access control for authorized users.
+
+- 📊 **Interactive Dashboard**
+  - Real-time admission statistics and institutional KPIs.
+
+- 📈 **Admission Forecasting**
+  - Predicts future admissions using Machine Learning models.
+
+- 🎯 **Course Sustainability Analysis**
+  - Evaluates long-term viability of academic programs.
+
+- ⚠️ **Vacancy Risk Assessment**
+  - Identifies courses with potential admission shortfalls.
+
+- 📚 **Academic Analytics**
+  - Category-wise, department-wise, and course-wise analysis.
+
+- 🌍 **Geographical Insights**
+  - Visualizes student distribution across different regions.
+
+- 📑 **Automated Report Generation**
+  - Generates comprehensive analytical reports for decision-makers.
+
+- 🤖 **AI Assistant**
+  - Integrated AI assistant to answer project-related queries and provide guidance.
+
+---
