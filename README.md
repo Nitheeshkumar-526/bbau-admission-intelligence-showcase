@@ -53,3 +53,20 @@ The system assists universities in forecasting admissions, analyzing course sust
   - Integrated AI assistant to answer project-related queries and provide guidance.
 
 ---
+
+# 🛠️ Technology Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| **Programming Language** | Python |
+| **Framework** | Streamlit |
+| **Machine Learning** | Scikit-learn |
+| **Data Processing** | Pandas, NumPy |
+| **Visualization** | Plotly, Matplotlib |
+| **Database** | SQLite |
+| **AI Integration** | OpenAI API |
+| **Development Tools** | VS Code, Git, GitHub |
+| **Version Control** | Git & GitHub |
+| **Deployment** | Streamlit |
+
+---
