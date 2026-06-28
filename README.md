@@ -54,19 +54,21 @@ The system assists universities in forecasting admissions, analyzing course sust
 
 ---
 
+
 # 🛠️ Technology Stack
 
 | Category | Technologies |
 |-----------|--------------|
-| **Programming Language** | Python |
+| **Programming Language** | Python 3.11 |
 | **Framework** | Streamlit |
 | **Machine Learning** | Scikit-learn |
 | **Data Processing** | Pandas, NumPy |
-| **Visualization** | Plotly, Matplotlib |
-| **Database** | SQLite |
-| **AI Integration** | OpenAI API |
+| **Data Visualization** | Plotly |
+| **Data Source** | Microsoft Excel (.xlsx) |
+| **AI Assistant** | Google Gemini API, Anthropic Claude API |
+| **Configuration** | TOML, Environment Variables |
 | **Development Tools** | VS Code, Git, GitHub |
-| **Version Control** | Git & GitHub |
-| **Deployment** | Streamlit |
+| **Version Control** | Git |
 
 ---
+
